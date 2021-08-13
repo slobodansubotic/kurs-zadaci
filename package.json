@@ -1,0 +1,19 @@
+{
+  "name": "kurs-zadaci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zadatak-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slobodansubotic/kurs-zadaci.git"
+  },
+  "author": "Slobodan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slobodansubotic/kurs-zadaci/issues"
+  },
+  "homepage": "https://github.com/slobodansubotic/kurs-zadaci#readme"
+}
